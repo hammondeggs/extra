@@ -17,7 +17,7 @@ Ensure you have the KORG minilogue/prologue sound librarian installed. Now, befo
 Next, select the USER OSCILLATORS tab on the librarian, and drag and drop the requisite file to an available slot in the librarian :
  - for Minilogue xd users, please use extra.mnlgxdunit
 
-#Note there is no prologue support at this time - prologue can already have at least 8 voices - this is primarily intended for minilogue users!#
+*Note there is no prologue support at this time - prologue can already have at least 8 voices - this is primarily intended for minilogue users!*
 
 You should now see Extra V1.00-1 listed in your user oscillators. Press "Send All" under USER OSC / FX to send all of your user oscillator / effects to your synthesizer
 
