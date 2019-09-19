@@ -31,7 +31,9 @@ Extra, doesn't "really" give you extra voices on your synthesizer. But it can so
 - Shape : Adjust the 'decay' time
 - Shift-Shape : Adjust the 'attack' time
 
-One particular caveat to note however, is that currently user oscillators stop executing once it's 'voice' has closed it's AMP eg. So, if your oscillator was in the middle of it's own EG phase, it will pause, and resume once that voice's analog AMP eg has retriggered. This also will apply to filter EG, but you can use this to an effect much like on a traditional paraphonic synthesizer.
+One particular caveat to note however, is that currently user oscillators stop executing once it's 'voice' has closed it's AMP eg. So, if your oscillator was in the middle of it's own EG phase, it will pause, and resume once that voice's analog AMP eg has retriggered. 
+
+Another caveat applies to filter EG, where if a multi-oscillator 'voice' is still decaying but the minilogue voice itself is re-triggered, the filter will open up for all of the 'voices' playing on that multi-oscillator - but you can use this to an effect much like on a traditional paraphonic synthesizer.
 
 ### edit menu
 
@@ -72,9 +74,3 @@ It isn't perfect, but it's something different to try with your synthesizer!
 
 #
 *All product names, trademarks and registered trademarks are property of their respective owners.*
-
-
-
-
-
-
